@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 👋
 
-<!--
-**gabrielly-02/Gabrielly-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gabrielly Cardoso
 
-Here are some ideas to get you started:
+- Estou no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e desenvolvimento dos meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Você pode entrar em contato comigo 📫
+
+00001083728957sp@al.educacao.sp.gov.br
+
+@gabrielly
+
+![](https://media.tenor.com/aARMnEHFZxQAAAAi/todoro-miyazaki.gif)
